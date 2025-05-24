@@ -1,0 +1,78 @@
+{
+    "activeFile": "seasonworld.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "C:/Users/melis/OneDrive/Desktop/ECE/meaprosa/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmj": {
+            "scale": 1.5646412037037036,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 431.72837223064687,
+                "y": 225.29126752228424
+            }
+        },
+        "C:/Users/melis/OneDrive/Desktop/ECE/meaprosa/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmj#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/melis/OneDrive/Desktop/ECE/meaprosa/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 520.25,
+                "y": 189.5
+            }
+        },
+        "C:/Users/melis/OneDrive/Desktop/ECE/meaprosa/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "seasonworld.tmx": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 442,
+                "y": 1412
+            }
+        },
+        "seasonworld.tmx#Backround-Map": {
+            "scaleInDock": 3
+        },
+        "seasonworld.tmx#Candy-Platform": {
+            "scaleInDock": 2
+        },
+        "seasonworld.tmx#Farm-Platformer": {
+            "scaleInDock": 3
+        },
+        "seasonworld.tmx#Main-Platform": {
+            "scaleInDock": 2
+        }
+    },
+    "frame.defaultDuration": 360,
+    "last.exportedFilePath": "C:/Users/melis/OneDrive/Desktop/ECE/meaprosa/CMPM 120/Seasons Greetings/assets",
+    "last.imagePath": "C:/Users/melis/OneDrive/Desktop/ECE/meaprosa/CMPM 120/Seasons Greetings/assets",
+    "lastUsedTilesetExportFilter": "All Files (*)",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "openFiles": [
+        "seasonworld.tmx"
+    ],
+    "project": "Season World.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "seasonworld.tmx",
+        "C:/Users/melis/OneDrive/Desktop/ECE/meaprosa/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
